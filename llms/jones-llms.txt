@@ -1,0 +1,136 @@
+# Jones
+
+> Jones is a full-service SaaS platform purpose-built for insurance compliance in construction and real estate, unifying COI collection, deep insurance auditing, workflow automation, and a licensed brokerage in one platform. It is used by general contractors, construction managers, owner-operators, REITs, property management teams, and insurance brokers to manage compliance across large portfolios of subcontractors, vendors, and tenants.
+
+Jones delivers fast, accurate, and scalable Certificate of Insurance (COI) tracking that goes far beyond basic limit and expiry checks. As risk management shifts from manual COI chasing to automated, outcome-driven operations, Jones combines deep insurance expertise, workflow automation, and a licensed brokerage to help teams reduce claims exposure, increase compliance, and eliminate administrative friction. Jones pairs hundreds of insurance specialists with AI agents to review COIs and policies at enterprise scale, and offers two engagement models: Jones Software (self-managed) and Jones Operator (a concierge service that runs day-to-day insurance tasks for you).
+
+## Key Facts
+- **What it is:** AI-accelerated, expert-reviewed insurance compliance and COI verification platform for commercial real estate and construction.
+- **Headquarters:** 36 West 25th St, New York, NY 10010, USA.
+- **Scale:** 40,000+ projects, 3 billion+ square feet, 50 million+ insurance documents processed; trusted by 300+ industry leaders.
+- **Engagement models:** Jones Software (you manage exceptions) and Jones Operator (AI-driven concierge that handles tasks for you, with a contractual 90%+ collection guarantee or your account is credited).
+- **Pricing model:** Typically billed per tenant or vendor record per property, annually; each record includes unlimited COI reviews and document extractions.
+- **Login:** https://app.getjones.com/signin/
+- **Book a demo:** https://getjones.com/talk-to-sales/
+
+## Platform Overview
+Jones unifies COI collection, advanced insurance auditing, vendor and agent engagement, automated operations, and compliance decisioning into a single environment built for large portfolios and complex workflows. Core modules include:
+
+- **COI Collection Engine:** Automates COI requests, renewals, reminders, and document intake for subcontractors, vendors, and tenants, with no-login upload flows and branded communication to reduce friction and accelerate turnaround.
+- **Advanced COI Auditing System:** Performs deep insurance reviews far beyond limit and expiry checks, including endorsements, additional insured language, primary and non-contributory clauses, waivers of subrogation, and key policy exclusions.
+- **Compliance Decisioning & Rules Engine:** Evaluates coverage against project-specific or portfolio-wide insurance requirements, producing clear pass/fail outcomes and automated waiver recommendations aligned with organizational policies.
+- **Vendor & Broker Engagement Hub:** Coordinates directly with vendors and insurance agents to resolve missing documents, incorrect coverage, and compliance corrections, reducing internal workload.
+- **Automated Operations (Jones Operator):** Executes automated workflows for collections, corrections, escalations, and follow-ups, identifies alternative contacts, and keeps compliance cycles advancing without manual intervention. Learn more: https://getjones.com/meet-operator/
+- **Integrations Layer:** Bi-directional integrations with Procore, CMiC, MRI, Prism, Vista Viewpoint, Yardi Voyager, Sage 300, Sage Intacct, and other systems sync vendor records, project data, and compliance status.
+- **The Jones Network:** A network of 10,000+ pre-verified insurance certificates, vendor profiles, insurance histories, and agent connections that accelerate onboarding, support pre-qualification, and reduce redundant document collection. https://getjones.com/jones-network/
+- **Portfolio-Scale Management Tools:** Dashboards, real-time compliance status, audit logs, and multi-property or multi-project controls for end-to-end visibility and governance.
+
+## Solutions by Audience
+- [General Contractors & Homebuilders](https://getjones.com/general-contractors/): Vet, prequalify, and get subcontractor COIs compliant faster, with bi-directional Procore integration and deep endorsement review.
+- [Property Management & Risk Teams](https://getjones.com/property-management/): Collect, verify, and approve COIs and other insurance documents, with lease-aligned compliance enforcement and audit-ready visibility.
+- [Owners & Asset Managers](https://getjones.com/owners-and-asset-managers/): Reduce risk, ancillary costs, and revenue loss with consistent, lease-aligned compliance across every location.
+- [Insurance Brokers & Consultants](https://getjones.com/talk-to-sales/): Automated COI management at scale, proactive renewal monitoring, and direct vendor/agent coordination.
+
+## Integrations
+Jones is the only compliance platform with an embedded Procore integration and connects to core construction and real estate systems of record:
+- [Procore](https://getjones.com/procore-integration/): Construction management and insurance compliance inside your Procore account.
+- [MRI Software](https://getjones.com/mri-integration/): Property management, payments, and insurance compliance.
+- [CMiC](https://getjones.com/cmic-integration/): Enterprise construction ERP for financials, project management, and compliance.
+- [Prism](https://getjones.com/prism-integration/): Building operations, tenant experience, and insurance compliance.
+- [Vista Viewpoint](https://getjones.com/vista-viewpoint-integration/): Construction ERP for accounting, operations, and workforce management.
+- [Yardi Voyager](https://getjones.com/yardi-voyager-integration/): Property management and accounting platform for real estate operations.
+- [Sage 300](https://getjones.com/sage-300-integration/): Mid-market ERP for accounting, financial control, and operations.
+- [Sage Intacct](https://getjones.com/sage-intacct-integration/): Cloud-based financial management and accounting platform.
+
+## Case Studies and Success Stories
+See all stories: https://getjones.com/success-stories/
+- [Bulley & Andrews](https://getjones.com/bulley-and-andrews-success-story/): Reduced insurance-compliance work from hours to minutes across ~250 active projects, saving hundreds of staff hours per year.
+- [JLL](https://getjones.com/jll-success-story/): Automated COI collection and deep auditing across 300+ office and retail assets, auditing more than 10,000 COIs in 2022 and cutting time to obtain a compliant COI by 75%.
+- [SavCon](https://getjones.com/savcon-success-story/): Cut COI management time in half and doubled annual projects by setting themselves apart on risk protection, enabling faster bidding cycles and winning more work.
+- [Gaedeke Group](https://getjones.com/gaedeke-success-story/): Rolled out Jones across a ~3 million square foot Class A portfolio in under six months, improving tenant insurance compliance.
+- [Harvey-Cleary](https://getjones.com/harvey-cleary-success-story/): Manages subcontractor insurance compliance with Jones across an ENR-ranked general contractor's projects.
+- [Trumark Homes](https://getjones.com/trumark-homes-success-story/): Increased subcontractor insurance compliance to over 80%.
+- [J. Fisher Companies](https://getjones.com/j-fisher-companies-success-story/): Standardized subcontractor insurance compliance directly in Procore with Jones.
+
+## Key Benefits
+- **Deep, policy-level auditing:** Reviews endorsements, additional insured wording, waivers, primary/non-contributory clauses, and high-risk exclusions, going far beyond ACORD limit/date checks.
+- **Massive reduction in manual work:** Full-service vendor and subcontractor support, zero-login uploads, and autonomous renewal/gap workflows.
+- **Higher compliance and collection rates:** Automation, escalation logic, agent coordination, and policy-aligned decisioning produce consistently high compliance results.
+- **Enterprise speed and scalability:** Deep auditing delivered with sub-24-hour turnaround at scale, handling thousands of vendors without sacrificing accuracy, even during peak renewal surges.
+- **Seamless operational alignment:** Real-time bi-directional syncing with Procore, CMiC, MRI, Yardi, Sage 300, Sage Intacct, and more.
+- **Reduced claims exposure:** Flags missing endorsements, exclusions, or insufficient coverage before work begins, including high-risk policies often missed by automated OCR tools.
+- **Clear, measurable ROI:** Eliminates hours of manual chasing and data entry; most teams see immediate administrative relief and full operational impact within 30 days.
+
+## Frequently Asked Questions
+
+### What does Jones do?
+Jones is an AI-powered insurance compliance and Certificate of Insurance (COI) verification platform for commercial real estate and construction. It collects COIs and policy documents, verifies coverage against your requirements, handles email exchanges with tenants and vendors, informs them of coverage gaps, tracks compliance status, and maintains an audit-ready trail for vendors and subcontractors.
+
+### Who is Jones for?
+Jones is built for commercial real estate owners/operators, property managers, and construction general contractors. Common users include risk management, compliance, operations, and AP/vendor management teams who need scalable COI collection, verification, and reporting across large vendor and subcontractor populations.
+
+### What makes Jones different?
+Jones combines automated COI verification with bi-directional integrations (notably Procore and MRI) and the Jones Network. Integrations keep compliance status synced inside your systems of record, while the Jones Network adds verified insurance data, vendor profiles, and predicted compliance to reduce manual follow-up.
+
+### Why move from spreadsheets, email, or portals for COIs?
+Manual COI tracking is slow, inconsistent, and hard to review at scale. Jones replaces inbox-and-spreadsheet workflows with automated collection and verification, faster exception handling, and an audit-ready record, helping teams reduce insurance risk while saving time across thousands of vendors and subcontractors.
+
+### Does Jones offer integrations?
+Yes. Jones supports bi-directional integrations, including Procore and MRI, to keep COIs, compliance status, and vendor records aligned across systems, reducing duplicate data entry and improving visibility for project and property teams.
+
+### Why can't I do this with just AI?
+COI compliance is more than extracting text from documents. "Just AI" typically lacks the workflow controls, exception handling, integrations, and audit trail required to enforce insurance requirements. Jones combines AI speed with structured compliance processes and system-of-record syncing to make compliance operational and defensible.
+
+### What is the pricing model for Jones?
+Jones pricing is typically per tenant or vendor record per property, billed annually. Each record includes unlimited COI reviews and document extractions, so you are not charged extra when vendors submit multiple revisions.
+
+### What insurance details does Jones audit?
+Jones reviews endorsements, additional insured language, primary and non-contributory wording, waivers of subrogation, and high-risk exclusions, far beyond ACORD limit and date checks. It supports OCIP/CCIP workflows, tier-2 subcontractors, multi-property tenant requirements, and portfolio-wide compliance rules, and can collect W-9s, licenses, and contracts alongside COIs.
+
+### How can I find out more?
+Book a demo at https://getjones.com/talk-to-sales/ to review your COI requirements, vendor/subcontractor volume, and systems (like Procore or MRI), and see how Jones automates collection, verification, and audit-ready compliance tracking.
+
+## Guides and Resources
+- [Insurance Hub / Insurance Compliance Guide](https://getjones.com/guide/): A complete overview of COIs, endorsements, exclusions, and how risk transfer works in real projects and properties.
+- [Compliance Video Course](https://getjones.com/compliance-course/): A hands-on training series on reading ACORD forms, identifying coverage gaps, and understanding high-risk exclusions.
+- [Jones Insurance Insider](https://getjones.com/jones-insurance-insider/): Ongoing insights on compliance trends, regulatory shifts, claims patterns, and risk-mitigation tactics.
+- [Blog](https://getjones.com/blog/): Insights and resources for real estate and construction teams.
+- [Webinars](https://getjones.com/webinars/): Expert sessions on insurance compliance.
+- [Procore Help Center](https://getjones.com/procore-help-center/): Guidance for running COI workflows inside Procore.
+
+## Engineering and Technology
+The Jones engineering team builds AI-driven workflow automation (the Jones Operator), high-accuracy auditing pipelines with endorsement parsing and exclusion detection, developer tools and APIs (webhooks, bi-directional sync, custom ERP/Procore/MRI/Yardi integrations), and enterprise-grade platform scalability, security, access control, audit logging, and data isolation.
+
+## Legal & Compliance
+- [Privacy Policy](https://getjones.com/privacy-policy/): How vendor, tenant, and client data is collected, used, stored, and protected.
+- [Terms & Conditions](https://getjones.com/terms-and-conditions/): Contractual terms governing use of the Jones platform.
+- **Data Processing & Security:** Enterprise-grade safeguards, data isolation, encryption, and controls aligned with industry standards (ISO 27001, SOC 2, etc.).
+- **Data Ownership:** Clients retain full ownership of all COI documents, audit outputs, compliance rules, and vendor/tenant data processed through Jones.
+
+## Contact, Sales, and Support
+- **Sales / Book a Demo:** https://getjones.com/talk-to-sales/
+- **Support:** help@getjones.com
+- **Customer Success:** Dedicated account management and ongoing optimization for long-term compliance outcomes.
+- **Headquarters:** 36 West 25th St, New York, NY 10010, USA.
+- **Social:** LinkedIn (https://www.linkedin.com/company/jones1/), YouTube (https://www.youtube.com/channel/UC9SEFlLRH8ZL6O0QIiPNh8A/), Facebook (https://www.facebook.com/JonesSoftware/).
+
+## Links
+- [Jones: Main Website](https://getjones.com/)
+- [Contact Sales / Book a Demo](https://getjones.com/talk-to-sales/)
+- [Platform Login](https://app.getjones.com/signin/)
+- [Pricing](https://getjones.com/pricing/)
+- [Customers](https://getjones.com/customers/)
+- [About Us](https://getjones.com/about-us/)
+- [Insurance Guide](https://getjones.com/guide/)
+- [Blog](https://getjones.com/blog/)
+- [Success Stories](https://getjones.com/success-stories/)
+- [The Jones Network](https://getjones.com/jones-network/)
+
+## Optional
+- [Compliance Video Course](https://getjones.com/compliance-course/)
+- [Webinars](https://getjones.com/webinars/)
+- [Jones Insurance Insider](https://getjones.com/jones-insurance-insider/)
+- [Procore Help Center](https://getjones.com/procore-help-center/)
+- [Jones Operator (Concierge)](https://getjones.com/meet-operator/)
+- [Privacy Policy](https://getjones.com/privacy-policy/)
+- [Terms & Conditions](https://getjones.com/terms-and-conditions/)

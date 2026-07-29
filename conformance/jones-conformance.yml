@@ -1,0 +1,23 @@
+generated: '2026-07-19'
+method: searched
+source: https://getjones.com/llms.txt
+note: >-
+  Self-reported compliance posture captured from the provider's published
+  llms.txt ("enterprise-grade safeguards, data isolation, encryption, and
+  controls aligned with industry standards (ISO 27001, SOC 2, etc.)"). No
+  dedicated trust center or certification-attestation page was found on a live
+  probe (probe-security-programs.py: trust=none), so these are provider claims,
+  not independently verified attestations.
+standards:
+  - id: iso-27001
+    conforms: true
+    claimed: true
+    evidence: >-
+      getjones.com/llms.txt Legal & Compliance section states controls aligned
+      with ISO 27001.
+  - id: soc-2
+    conforms: true
+    claimed: true
+    evidence: >-
+      getjones.com/llms.txt Legal & Compliance section states controls aligned
+      with SOC 2.

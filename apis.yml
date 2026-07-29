@@ -1,9 +1,32 @@
 aid: jones
 name: Jones
-description: Jones is a company surfaced as a portfolio company of 500-global, foundry-group and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Jones is a full-service SaaS platform purpose-built for insurance compliance
+  in construction and commercial real estate, unifying Certificate of Insurance
+  (COI) collection, deep insurance auditing, workflow automation, and a licensed
+  brokerage in one platform. It pairs hundreds of insurance specialists with AI
+  agents to review COIs and policies at enterprise scale, and is used by general
+  contractors, construction managers, owner-operators, REITs, property
+  management teams, and insurance brokers to manage compliance across large
+  portfolios of subcontractors, vendors, and tenants. Jones offers two
+  engagement models: Jones Software (self-managed) and Jones Operator (an
+  AI-driven concierge that runs day-to-day insurance tasks). Reported scale:
+  40,000+ projects, 3 billion+ square feet, and 50 million+ insurance documents
+  processed for 300+ industry leaders. Headquartered in New York, NY, Jones was
+  surfaced as a portfolio company of 500 Global and Foundry Group.
 url: https://raw.githubusercontent.com/api-evangelist/jones/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://getjones.com/wp-content/uploads/uploads-3-0/24-sparkle.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -13,9 +36,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Insurance
+- Insurance Compliance
+- Certificate of Insurance
+- COI
+- Risk Management
+- Construction
+- Real Estate
+- Property Management
+- InsurTech
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +57,28 @@ maintainers:
 common:
 - type: Website
   url: https://getjones.com
+- type: Pricing
+  url: https://getjones.com/pricing/
+- type: Login
+  url: https://app.getjones.com/signin/
+- type: Blog
+  url: https://getjones.com/blog/
+- type: Support
+  url: mailto:help@getjones.com
+- type: TermsOfService
+  url: https://getjones.com/terms-and-conditions/
+- type: PrivacyPolicy
+  url: https://getjones.com/privacy-policy/
+- type: LLMsTxt
+  url: llms/jones-llms.txt
+- type: DomainSecurity
+  url: security/jones-domain-security.yml
+- type: Conformance
+  url: conformance/jones-conformance.yml
+- type: Compliance
+  url: conformance/jones-conformance.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
